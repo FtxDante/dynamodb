@@ -33,3 +33,6 @@ A seguir, segue uma explicação linha por linha do código:
 6. `cd /var/www/html`: Navega até o diretório em que os arquivos da página web serão armazenados.
 7. `echo "<?php phpinfo();?>" > home.php`: Cria um arquivo PHP com o conteúdo `<?php phpinfo(); ?>` chamado `home.php`.
 8. `git clone <https://github.com/andreiacono/dynamodb>`: Clona o repositório GitHub do projeto DynamoDB na instância Amazon Linux.
+
+# Problemas ao instalar o Composer da aula? 
+Provavelmente se você tentar instalar o composer com o arquivo atual que o professor passou, irá encontrar um problema com o "Instalação corrompida", para resolver isso instale a versão mais recente copiando o código direto do site: https://getcomposer.org/download/
