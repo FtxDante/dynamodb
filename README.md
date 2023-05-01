@@ -36,3 +36,6 @@ A seguir, segue uma explicação linha por linha do código:
 
 # Problemas ao instalar o Composer da aula? 
 Provavelmente se você tentar instalar o composer com o arquivo atual que o professor passou, irá encontrar um problema com o "Instalação corrompida", para resolver isso instale a versão mais recente copiando o código direto do site: https://getcomposer.org/download/
+
+Lembre de usar esse último comando:
+php -d memory_limit=-1 composer.phar require aws/aws-sdk-php
