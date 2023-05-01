@@ -1,8 +1,12 @@
 # DynamoDB - AWS Associate Curso.
 Aqui você encontrará os arquivos para a aula do Professor André Iacono,  referente ao curso de Associate na Udemy.
 
-## Arquivos da Aula
+## Comando para clonar
+```
+sudo git clone https://github.com/FtxDante/dynamodb
+```
 
+## Arquivos da Aula
 Aqui você encontrará os arquivos para a aula do Professor André Iacono, referente ao curso de Associate na Udemy.
 
 ```
